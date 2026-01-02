@@ -125,5 +125,3 @@ Bu, bir matematiksel kavramın eğitim amaçlı bir uygulamasıdır ve **gerçek
 - İstatistiksel rastgelelik
 - Bilinen saldırılara karşı direnç
 - Uygun anahtar yönetimi
-
-Güvenli şifreleme için `cryptography` veya `PyCryptodome` gibi yerleşik kriptografik kütüphaneleri kullanın.
